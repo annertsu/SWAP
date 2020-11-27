@@ -1,3 +1,8 @@
 # SWAP
 
-In this repository, you can find the code for SWAP Version A and SWAP Version B (folders labeled accordingly).
+In this repository, you can find:
+-the code folder for SWAP Version A
+-the code folder for SWAP Version B
+-Dissertation
+-Project Log
+
