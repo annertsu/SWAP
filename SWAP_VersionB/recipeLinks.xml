@@ -1,0 +1,46 @@
+<pages>
+    
+    <link>
+        <title>"Dak"galbi</title>
+        <url>dakgalbi.html</url>
+    </link>
+    <link>
+        <title>Bolognese</title>
+        <url>bolognese.html</url>
+    </link>
+    <link>
+        <title>Gyoza Dumplings</title>
+        <url>gyoza-dumplings.html</url>
+    </link>
+    <link>
+        <title>Gapao Rice</title>
+        <url>gapao-rice.html</url>
+    </link>
+    
+    <link>
+        <title>"Fish" and Chips</title>
+        <url>bolognese.html</url>
+    </link>
+    <link>
+        <title>"Calamari" Rings</title>
+        <url>calamari-rings.html</url>
+    </link>
+    <link>
+        <title>"Tuna" Sashimi</title>
+        <url>tuna-sashimi.html</url>
+    </link>
+    
+    <link>
+        <title>Arancini</title>
+        <url>arancini.html</url>
+    </link>
+    <link>
+        <title>Fruit Tart</title>
+        <url>fruit-tart.html</url>
+    </link>
+    <link>
+        <title>Orange Cake</title>
+        <url>orange-cake.html</url>
+    </link>
+    
+</pages>
