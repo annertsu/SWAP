@@ -2,7 +2,6 @@
 
 Anna Tsuda
 Student ID: 19034407
-
 UAL: CCI
 MSc Creative Computing
 
