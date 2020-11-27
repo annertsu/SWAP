@@ -1,0 +1,103 @@
+<!--HTML STARTS HERE-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>SWAP</title>
+<meta name="author" content="Anna Tsuda">
+<meta name="description" content="Facilitating you with your plant-base diet journey">
+<meta name="keyword" content="design, vegan">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="shortcut icon" href="prepared/favicon.png">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body id="orangeBackground">
+    
+    <!-- Launch Screen Modal -->
+    <div id="modal">
+        <video id="launchVideo" type="video/mp4" src="prepared/launchScreen2.mp4" autoplay muted loop></video>
+    </div> <!--modal-->
+    
+    <div id="paper">
+        
+        <img id="looseleaf" src="prepared/looseleafPortrait.png">    
+            
+        <form id="login-signup" action="log-in.php" method="post">
+        
+            <img class="header" src="prepared/title.png" style="margin-bottom: 2em;">
+
+            <!--EMAIL-->
+            <div class="userInput">
+                <div class="textInput">
+                    <img class="formIcon" src="prepared/iconEmail.png">
+                    <input type="text" placeholder="E-mail" name="email" required>
+                </div> <!--textInput-->
+                <img class="inputLine" src="prepared/inputLine.png">
+            </div> <!--userInput-->
+            
+            <!--PASSWORD-->
+            <div class="userInput">
+                <div class="textInput">
+                    <img class="formIcon" src="prepared/iconPassword.png">
+                    <input id="pswInput" type="password" placeholder="Password" name="password" required>
+                    <input id="pswToggle" type="checkbox" onclick="passwordToggle()">
+                    <label for="pswToggle">some</label>
+                </div> <!--textInput-->
+                <img class="inputLine" src="prepared/inputLine.png">
+            </div> <!--userInput-->
+            
+            <!--LOG IN BUTTON-->
+            <button class="greenButtonTag" type="submit" style="background-image: url(prepared/buttonSmall.png);width:5em;">
+                LOG IN
+            </button>
+
+	    <p>OR</p>
+            
+<!--
+            <a href="..." class="hoverPink">
+                <p class="buttonCaption">I forgot my log in details :(</p>
+            </a>
+-->
+            
+<!--
+            <div id="snsLogin">
+                <img class="sns" src="prepared/fb.png">
+                <img class="sns" src="prepared/google.png">
+                <img class="sns" src="prepared/insta.png">
+            </div>
+-->
+            
+            <a href="sign-up.html">
+                <div id="button">
+                    <img id="greenButton" src="prepared/buttonLong.png">
+                    <h2 class="center">CREATE AN ACCOUNT</h2>
+                </div>
+            </a>
+            
+            <p class="buttonCaption">What is SWAP?</p>
+            
+            <div id="aboutBlurb">
+                <img class="pinkBubble" src="prepared/pinkBubble2.png">
+                <h2 class="blurb center">SWAP wants to<br>demistify the common notion that "plant-based dishes are less tasty"!</h2>
+            </div>
+            
+<!--
+            <div id="aboutBlurbBelow" class="aboutBlurb">
+                <img id="pinkBubble" src="prepared/pinkBubble2.png">
+                <h2 id="blurbBelow" class="blurb center">SWAP is a recipe<br>journal that helps you with your plant-based diet adventures :)</h2>
+            </div>
+-->
+            
+        </form>
+        
+    </div> <!--paper-->
+
+    
+</body>
+    
+<script src="script.js"></script>
+
+</html>

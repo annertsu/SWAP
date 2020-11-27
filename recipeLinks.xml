@@ -1,0 +1,46 @@
+<pages>
+    
+    <link>
+        <title>Pseudo Dakgalbi</title>
+        <url>dakgalbi.html</url>
+    </link>
+    <link>
+        <title>Meat Free Bolognese</title>
+        <url>bolognese.html</url>
+    </link>
+    <link>
+        <title>Vegan Gyozas</title>
+        <url>gyoza-dumplings.html</url>
+    </link>
+    <link>
+        <title>No Meat Gapao Rice</title>
+        <url>gapao-rice.html</url>
+    </link>
+    
+    <link>
+        <title>Banana Blossom Fish</title>
+        <url>bolognese.html</url>
+    </link>
+    <link>
+        <title>No Squid Calamari</title>
+        <url>calamari-rings.html</url>
+    </link>
+    <link>
+        <title>Faux Tuna</title>
+        <url>tuna-sashimi.html</url>
+    </link>
+    
+    <link>
+        <title>Dairy Free Arancini</title>
+        <url>arancini.html</url>
+    </link>
+    <link>
+        <title>Vegan Fruit Tart</title>
+        <url>fruit-tart.html</url>
+    </link>
+    <link>
+        <title>Vegan Orange Cake</title>
+        <url>orange-cake.html</url>
+    </link>
+    
+</pages>
